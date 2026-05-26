@@ -187,7 +187,7 @@ li:hover {
 .item-price{
   font-size: 12px;
   font-weight: 500;
-  color: #ccc;
+  color: #F4C542;
 }
 
 .item-desc {
