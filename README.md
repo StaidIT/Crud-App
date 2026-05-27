@@ -1,3 +1,3 @@
 *CRUD Application using vue, Express & supabase
 
-Author: Jimwell D. Raza
+Authors: Jimwell Raza, Jayson Layola and Jared Marinas
